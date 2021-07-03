@@ -11,20 +11,13 @@ Para iniciar basta copiar e colar o arquivo fonte em algum ambiente com NodeJS e
 
     
  
-    Para utilizar a caulculadora basta colocar o valor desejado logo acima.
+    Para utilizar a caulculadora basta colocar o valor desejado entre os parenteses na função chamada na linha 23, ex.:
+    Para o valor de 5 R$: totalDeViews(5)
+    Para o valor de 2,50 R$: totalDeViews(2.50) LEMBRE-SE DE TROCAR A VIRGULA POR PONTO.
+    Para o valor de 0,50 R$: totalDeViews(2.50) LEMBRE-SE DE TROCAR A VIRGULA POR PONTO.
 
     ##################################################################################################################
- 
-    a cada 100 pessoas que visualizam o anúncio 12 clicam nele.
-    a cada 20 pessoas que clicam no anúncio 3 compartilham nas redes sociais.
-    cada compartilhamento nas redes sociais gera 40 novas visualizações.
-    30 pessoas visualizam o anúncio original (não compartilhado) a cada R$ 1,00 investido.
-    o mesmo anúncio é compartilhado no máximo 4 vezes em sequência
-    
-
-    ##################################################################################################################
- 
-    
+     
     A declaração function define uma função com os especificados parâmetros.
     
     Você pode também definir funções usando o construtor Function  e uma function expression.
@@ -120,7 +113,7 @@ https://playcode.io/new/
 
 Ou atraves de um navegador com o motor v8 do google, como por exemplo o Chrome na opção console. Basta copiar todo o código fonte e colar na opção console do navegador.
 
-O sistema é totalmente interativo, basta digitar o que for solicitado que ele irá cadastrar, filtar ou imprimir todos os anúncios com todas as informações necessárias.
+O sistema é totalmente interativo, basta digitar o que for solicitado que ele irá cadastrar, filtrar ou imprimir todos os anúncios com todas as informações necessárias.
 
 # Abaixo segue algumas informações da estrutura usada e que somadas as da calculadora completam a documentação das 2 atividades.
 
