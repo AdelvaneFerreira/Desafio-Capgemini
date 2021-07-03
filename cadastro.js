@@ -242,6 +242,6 @@ for(let i = 0; i == 0;i){
 
   console.log("opção inválida, digite 1 ou 2!");
   fNewConfirm();
-  }
-}
+  };
+};
 
